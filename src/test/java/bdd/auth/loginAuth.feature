@@ -1,3 +1,4 @@
+@smoke
 Feature: Casos de login
 
   @login-exitoso
